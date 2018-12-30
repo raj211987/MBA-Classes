@@ -1,4 +1,4 @@
-Different paper for MBA, adding operation management paper
+Different paper for MBA, adding operation management paper, adding change management to the paper now
 Financial Studies
 economy
 consumer behaviour 
@@ -6,3 +6,4 @@ market research
 marketing management
 international business
 operation management
+change management
