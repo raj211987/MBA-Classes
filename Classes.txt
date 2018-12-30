@@ -1,4 +1,4 @@
-Different paper for MBA, adding operation management paper, adding change management to the paper now
+Different paper for MBA, adding operation management paper, adding change management to the paper now adding bachelors
 Financial Studies
 economy
 consumer behaviour 
@@ -8,3 +8,4 @@ international business
 operation management
 change management
 postgraduate
+bachelors
